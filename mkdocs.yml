@@ -27,39 +27,41 @@ nav:
     - Home: index.md
     - 使用指南: 使用指南.md
     - 选校梯度: 选校梯度.md
-    - S: 
+    - SSS: 
       - MSECS@Princeton: MSECS@Princeton.md
       - MSCS@Stanford: MSCS@Stanford.md
       - MSCS@UT-Austin: MSCS@UT-Austin.md
       - CSE@MIT: CSE@MIT.md
-    - A+:
+    - SS:
+      - MLT@CMU: MLT@CMU.md
       - MSCS@CMU: MSCS@CMU.md
+      - MSR@CMU: MSR@CMU.md
+      - CS Meng@Cornell: CS Meng@Cornell.md
       - MSCS@UCLA: MSCS@UCLA.md
       - MCIS@UPenn: MCIS@UPenn.md
       - CSE@Harvard: CSE@Harvard.md
       - DS@Harvard: DS@Harvard.md
       - EE@Stanford: EE@Stanford.md
       - ICME@Stanford: ICME@Stanford.md
-    - A:
+    - S:
       - MCDS@CMU: MCDS@CMU.md
       - MIIS@CMU: MIIS@CMU.md
       - MSAII@CMU: MSAII@CMU.md
       - MSCV@CMU: MSCV@CMU.md
       - MSML@CMU: MSML@CMU.md
-      - CS Meng@Cornell: CS Meng@Cornell.md
+      - MSCS@UIUC: MSCS@UIUC.md
       - MSCS@Yale: MSCS@Yale.md
       - MS&E@Stanford: MS&E@Stanford.md
       - DS@UPenn: DS@UPenn.md
-    - A-:
+    - A+:
       - EECS Meng@Berkeley: EECS Meng@Berkeley.md
       - MSIN@CMU: MSIN@CMU.md
       - MSCS@Duke: MSCS@Duke.md
       - MSCS@GaTech: MSCS@GaTech.md
       - CS75@UCSD: CS75@UCSD.md
       - MMath-course@Waterloo: MMath-course@Waterloo.md
-      - ECE@CMU: ECE@CMU.md
       - ECE@UT Austin: ECE@UT Austin.md
-    - B+:
+    - A:
       - ScM CS@Brown: ScM CS@Brown.md
       - MSCS@Columbia: MSCS@Columbia.md
       - CM@Cornell Tech: CM@Cornell Tech.md
@@ -67,22 +69,23 @@ nav:
       - MCS@UIUC: MCS@UIUC.md
       - MSCSE@UMich: MSCSE@UMich.md
       - MScAc@UofT: MScAc@UofT.md
+      - ECE@CMU: ECE@CMU.md
       - ECE Meng@UBC: ECE Meng@UBC.md
       - MDSAI@Waterloo: MDSAI@Waterloo.md
-    - B:
+    - A-:
       - SESV@CMU: SESV@CMU.md
       - MSCS@Dartmouth: MSCS@Dartmouth.md
       - CSE@GaTech: CSE@GaTech.md
       - MSCS@NWU: MSCS@NWU.md
       - MSCS@UCSB: MSCS@UCSB.md
-      - MISM@CMU: MISM@CMU.md
       - DS@Columbia: DS@Columbia.md
       - CSDA@Dartmouth: CSDA@Dartmouth.md
       - ECE@GaTech: ECE@GaTech.md
       - ECE Meng@UIUC: ECE Meng@UIUC.md
       - DS@UMich: DS@UMich.md
-    - B-:
+    - B+:
       - MSE-SS@CMU: MSE-SS@CMU.md
+      - MISM@CMU: MISM@CMU.md
       - MSCS@NYU Courant: MSCS@NYU Courant.md
       - MCS@Rice: MCS@Rice.md
       - MSc@SFU: MSc@SFU.md
@@ -90,7 +93,6 @@ nav:
       - MCS@UCI: MCS@UCI.md
       - CS28@USC: CS28@USC.md
       - CS-PMP@UWM: CS-PMP@UWM.md
-      - MSIM@CMU: MSIM@CMU.md
       - MSMITE@CMU: MSMITE@CMU.md
       - ECE MEng@Cornell: ECE MEng@Cornell.md
       - ECE@Duke: ECE@Duke.md
@@ -100,11 +102,11 @@ nav:
       - EC93@UCSD: EC93@UCSD.md
       - ECE Meng@UofT: ECE Meng@UofT.md
       - ECE Meng@Waterloo: ECE Meng@Waterloo.md
-    - C+:
+    - B:
       - MSECS@JHU: MSECS@JHU.md
       - CS General@NEU: CS General@NEU.md
       - MSCS@NYU Tandon: MSCS@NYU Tandon.md
-    - C:
+    - B-:
       - MSCSE@OSU: MSCSE@OSU.md
       - MSCSE@PSU: MSCSE@PSU.md
       - MSCS@UCD: MSCS@UCD.md
@@ -120,7 +122,7 @@ nav:
       - ECE@Duke-Kunshan: ECE@Duke-Kunshan.md
       - ECE@GaTech-Shenzhen: ECE@GaTech-Shenzhen.md
       - CE@NYU Tandon: CE@NYU Tandon.md
-    - C-:
+    - C+:
       - MSCS@BU: MSCS@BU.md
       - MSCS@Emory: MSCS@Emory.md
       - MSCS@Rutgers: MSCS@Rutgers.md
@@ -129,7 +131,7 @@ nav:
       - MSCS@UTD: MSCS@UTD.md
       - MSCS@Vanderbilt: MSCS@Vanderbilt.md
       - IS@NEU: IS@NEU.md
-    - D+:
+    - C:
       - MSCS@BC: MSCS@BC.md
       - MSCS@GWU: MSCS@GWU.md
       - MSCS@SIT: MSCS@SIT.md
@@ -137,6 +139,7 @@ nav:
       - MSCS@Berkeley: MSCS@Berkeley.md
       - MSCS@Cornell: MSCS@Cornell.md
       - MSCS@Purdue: MSCS@Purdue.md
+      - MSc@UofT: MSc@UofT.md
       - MSCS@UWM: MSCS@UWM.md
     - 零基础转码项目:
       - MSCS@Brandeis: MSCS@Brandeis.md
@@ -146,7 +149,7 @@ nav:
       - MSCS@SCU: MSCS@SCU.md
       - MSCS@Syracuse: MSCS@Syracuse.md
       - MPCS@UChicago: MPCS@UChicago.md
-      - MISM@UIUC: MISM@UIUC.md
+      - MSIM@UIUC: MSIM@UIUC.md
       - MCIT@UPenn: MCIT@UPenn.md
       - CS37@USC: CS37@USC.md
     - CS选校之禅: CS选校之禅.md
